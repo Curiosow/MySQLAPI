@@ -16,7 +16,7 @@ Download the jar, put in the plugin folder AND in the build path
     public String USER = "YOUR USER";
     public String PASS = "YOUR PASS";
     
-# Now, we will does the connexion, put that in the onEnable()
+# Now, we will do the connexion, put that in the onEnable()
 
     this.pdf = this.getDescription();
 		
